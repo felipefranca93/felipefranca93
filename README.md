@@ -1,4 +1,8 @@
-### Hi there 👋
+:us:
+Welcome to my profile | Bem-vindo ao meu perfil 
+### Sou Desenvolvedor Freelancer Web Front-End com as principais habilidades:
+
+HTML5 | CSS3 | UI/UX | Python Scripts | Dart
 
 <!--
 **felipefranca93/felipefranca93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
