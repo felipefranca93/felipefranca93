@@ -1,4 +1,4 @@
-:octacat:
+:octocat:
 Bem-vindo ao meu perfil | Welcome to my profile
 ### Sou Desenvolvedor Web com as principais habilidades | I am an Web Developer with the main skills :
  __________________________________________________
