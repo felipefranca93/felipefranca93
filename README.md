@@ -1,6 +1,6 @@
 :octocat:
-Bem-vindo ao meu perfil | Welcome to my profile
-### Sou Desenvolvedor Web com as principais habilidades | I am an Web Developer with the main skills :
+# Bem-vindo ao meu perfil | Welcome to my profile
+# Sou Desenvolvedor Web com as principais habilidades | I am an Web Developer with the main skills :
  __________________________________________________
 | HTML5 | CSS3 | UI/UX | Python Scripts | PHP | JS |
  --------------------------------------------------
