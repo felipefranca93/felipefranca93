@@ -1,7 +1,7 @@
 :octocat:
 ### Bem-vindo ao meu perfil | Welcome to my profile
-### Sou Desenvolvedor Web com as principais habilidades | I am an Web Developer with the main skills :
-### | HTML5 | CSS3 | UI/UX | Python Scripts | PHP | JS |
+### Sou Desenvolvedor Web e DevOps com as principais habilidades | I am an Web Developer and DevOps with the main skills :
+### | HTML5 | CSS3 | DevOps | Python Scripts | PHP | JS |
 
 A cada dia mais estou desenvolvendo minhas principais atividades e aprendendo outras novas habilidades para sempre me aperfeiçoar | Every day I am developing my main activities and learning other new skills to always improve myself
 
