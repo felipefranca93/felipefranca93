@@ -1,7 +1,7 @@
-# Hi, I'm Felipe França, welcome to my Github
-
-
-### I'm a DevOps Engineer, Infrastructure Analyst and studying to increase my developer skills
+<div align="center">
+  <img src="images/github-header-image.png">
+</div>
+<img src="images/lain-header.jpg">
 
 
 <p align="center"
@@ -18,6 +18,7 @@
     />
   </a>
 </p>
+
 
 ## Some of my Tech skills: 
 <div style="display: inline_block"><br>
@@ -38,12 +39,21 @@
   <img align="center" alt="jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
+<hr>
+
 ## Building Knowledge
 <div style="display: inline_block"><br>
   <img align="center" alt="go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-  <img align="center" alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" alt="flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+  <img align="center" alt="nginx" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </div>
+
+<hr>
+
+## My Certifications
+
+<img src="images/aws-certified-cloud-practitioner.png" width="200px">
+<img src="images/cisco-it-essentials.png" width="200px">
+
+
